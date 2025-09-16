@@ -8,7 +8,7 @@ includes:
   circuit data including mill power, feed rate, % solids, sump level,
   cyclone pressure, pump speed, pulp density, throughput and specific
   energy consumption.
-* `generate_synthetic_data.py` – script used to generate the dataset.
+
 * `app.py` – a Streamlit web app that allows users to explore the
   synthetic data, train regression models, input hypothetical
   operating conditions and receive predictions, and view recommended
