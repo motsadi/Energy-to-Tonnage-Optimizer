@@ -3,7 +3,7 @@ Streamlit application for the Energy‑to‑Tonnage Optimiser demo.
 
 This app demonstrates how machine learning can be used to predict
 grinding circuit performance (throughput and specific energy) from
-process variables. It uses a synthetic dataset generated to mimic
+process variables. It uses a simulated dataset generated to mimic
 typical grinding circuit behaviour and provides an end‑to‑end workflow:
 
 1. **Data exploration** – inspect the dataset, summarise statistics and explore
